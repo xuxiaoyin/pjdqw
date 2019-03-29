@@ -1,0 +1,199 @@
+<!--
+使用本例需在引用外部样式表以及脚本文件
+不建议直接在此定义样式表以及脚本文件
+-->
+        <div class="tab"><dl><dt><a>广东</a>
+        
+						<a>
+						广州
+						</a>
+						
+						<a>
+						深圳
+						</a>
+						
+						<a>
+						珠海
+						</a>
+						
+						<a>
+						汕头
+						</a>
+						
+						<a>
+						佛山
+						</a>
+						
+						<a>
+						韶关
+						</a>
+						
+						<a>
+						河源
+						</a>
+						
+						<a>
+						梅州
+						</a>
+						
+						<a>
+						惠州
+						</a>
+						
+						<a>
+						汕尾
+						</a>
+						
+						<a>
+						东莞
+						</a>
+						
+						<a>
+						中山
+						</a>
+						
+						<a>
+						江门
+						</a>
+						
+						<a>
+						阳江
+						</a>
+						
+						<a>
+						湛江
+						</a>
+						
+						<a>
+						茂名
+						</a>
+						
+						<a>
+						肇庆
+						</a>
+						
+						<a>
+						清远
+						</a>
+						
+						<a>
+						潮州
+						</a>
+						
+						<a>
+						揭阳
+						</a>
+						
+						<a>
+						云浮
+						</a>
+						
+        </dt><dd>
+        <ul><a class="maincity" target="_blank" href="http://gd-info.gov.cn/">广东省地情网</a>| </ul>
+            <ul>
+                <a href="http://www.gzsdfz.org.cn/" target="_blank" class="maincity">广州市</a> 
+                |
+                <a href="http://yxq.gd-info.gov.cn" target="_blank">越秀区</a> <a href="http://hzq.gd-info.gov.cn" target="_blank">海珠区</a> <a href="http://lwq.gd-info.gov.cn" target="_blank">荔湾区</a> <a href="http://thq.gd-info.gov.cn" target="_blank">天河区</a> <a href="http://byq.gd-info.gov.cn" target="_blank">白云区</a> <a href="http://hpq.gd-info.gov.cn" target="_blank">黄埔区</a> <a href="http://hdq.gd-info.gov.cn" target="_blank">花都区</a> <a href="http://pyq.gd-info.gov.cn" target="_blank">番禺区</a> <a href="http://nsq.gd-info.gov.cn" target="_blank">南沙区</a> <a href="http://luogq.gd-info.gov.cn" target="_blank">萝岗区</a> <a href="http://chs.gd-info.gov.cn" target="_blank">从化市</a> <a href="http://zcs.gd-info.gov.cn" target="_blank">增城市</a> 
+            </ul>
+            <ul>
+                <a href="http://www.szb.sz.gov.cn/" target="_blank" class="maincity">深圳市</a> 
+                |
+                <a href="http://ftq.gd-info.gov.cn" target="_blank">福田区</a> <a href="http://szlhq.gd-info.gov.cn" target="_blank">罗湖区</a> <a href="http://ytq.gd-info.gov.cn" target="_blank">盐田区</a> <a href="http://sznsq.gd-info.gov.cn" target="_blank">南山区</a> <a href="http://baq.gd-info.gov.cn" target="_blank">宝安区</a> <a href="http://longgq.gd-info.gov.cn" target="_blank">龙岗区</a> 
+            </ul>
+            <ul>
+                <a href="http://zh.gd-info.gov.cn" target="_blank" class="maincity">珠海市</a> 
+                |
+                <a href="http://xzq.gd-info.gov.cn" target="_blank">香洲区</a> <a href="http://jwq.gd-info.gov.cn" target="_blank">金湾区</a> <a href="http://dmq.gd-info.gov.cn" target="_blank">斗门区</a> 
+            </ul>
+            <ul>
+                <a href="http://st.gd-info.gov.cn" target="_blank" class="maincity">汕头市</a> 
+                |
+                <a href="http://jpq.gd-info.gov.cn" target="_blank">金平区</a> <a href="http://lhq.gd-info.gov.cn" target="_blank">龙湖区</a> <a href="http://chq.gd-info.gov.cn" target="_blank">澄海区</a> <a href="http://hjq.gd-info.gov.cn" target="_blank">濠江区</a> <a href="http://cyq.gd-info.gov.cn" target="_blank">潮阳区</a> <a href="http://cnq.gd-info.gov.cn" target="_blank">潮南区</a> <a href="http://nax.gd-info.gov.cn" target="_blank">南澳县</a> 
+            </ul>
+            <ul>
+                <a href="http://fss.gd-info.gov.cn" target="_blank" class="maincity">佛山市</a> 
+                |
+                <a href="http://ccq.gd-info.gov.cn" target="_blank">禅城区</a> <a href="http://nhq.gd-info.gov.cn" target="_blank">南海区</a> <a href="http://sdq.gd-info.gov.cn" target="_blank">顺德区</a> <a href="http://www.gd-info.gov.cn/shtml/gmq/" target="_blank">高明区</a> <a href="http://www.gd-info.gov.cn/shtml/ssq/" target="_blank">三水区</a> 
+            </ul>
+            <ul>
+                <a href="http://sg.gd-info.gov.cn" target="_blank" class="maincity">韶关市</a> 
+                |
+                <a href="http://zjq.gd-info.gov.cn" target="_blank">浈江区</a> <a href="http://wjq.gd-info.gov.cn" target="_blank">武江区</a> <a href="http://qjq.gd-info.gov.cn" target="_blank">曲江区</a> <a href="http://lcs.gd-info.gov.cn" target="_blank">乐昌市</a> <a href="http://nxs.gd-info.gov.cn" target="_blank">南雄市</a> <a href="http://rhx.gd-info.gov.cn" target="_blank">仁化县</a> <a href="http://shixx.gd-info.gov.cn" target="_blank">始兴县</a> <a href="http://wyx.gd-info.gov.cn" target="_blank">翁源县</a> <a href="http://xfszb.gd-info.gov.cn" target="_blank">新丰县</a> <a href="http://ryx.gd-info.gov.cn" target="_blank">乳源瑶族自治县</a> 
+            </ul>
+            <ul>
+                <a href="http://hy.gd-info.gov.cn" target="_blank" class="maincity">河源市</a> 
+                |
+                <a href="http://ycq.gd-info.gov.cn" target="_blank">源城区</a> <a href="http://dyx.gd-info.gov.cn" target="_blank">东源县</a> <a href="http://hpx.gd-info.gov.cn" target="_blank">和平县</a> <a href="http://lcx.gd-info.gov.cn" target="_blank">龙川县</a> <a href="http://zjx.gd-info.gov.cn" target="_blank">紫金县</a> <a href="http://lpx.gd-info.gov.cn" target="_blank">连平县</a> 
+            </ul>
+            <ul>
+                <a href="http://mz.gd-info.gov.cn" target="_blank" class="maincity">梅州市</a> 
+                |
+                <a href="http://mjq.gd-info.gov.cn" target="_blank">梅江区</a> <a href="http://xn.gd-info.gov.cn" target="_blank">兴宁市</a> <a href="http://meix.gd-info.gov.cn" target="_blank">梅县</a> <a href="http://pyx.gd-info.gov.cn" target="_blank">平远县</a> <a href="http://jlx.gd-info.gov.cn" target="_blank">蕉岭县</a> <a href="http://mzdbx.gd-info.gov.cn" target="_blank">大埔县</a> <a href="http://fsx.gd-info.gov.cn" target="_blank">丰顺县</a> <a href="http://whx.gd-info.gov.cn" target="_blank">五华县</a> 
+            </ul>
+            <ul>
+                <a href="http://hz.gd-info.gov.cn" target="_blank" class="maincity">惠州市</a> 
+                |
+                <a href="http://hcq.gd-info.gov.cn " target="_blank">惠城区</a> <a href="http://hyq.gd-info.gov.cn" target="_blank">惠阳区</a> <a href="http://hdx.gd-info.gov.cn" target="_blank">惠东县</a> <a href="http://blx.gd-info.gov.cn" target="_blank">博罗县</a> <a href="http://lmx.gd-info.gov.cn" target="_blank">龙门县</a> 
+            </ul>
+            <ul>
+                <a href="http://sw.gd-info.gov.cn" target="_blank" class="maincity">汕尾市</a> 
+                |
+                <a href="http://chenq.gd-info.gov.cn" target="_blank">城区</a> <a href="http://lfs.gd-info.gov.cn" target="_blank">陆丰市</a> <a href="http://hfx.gd-info.gov.cn" target="_blank">海丰县</a> <a href="http://lhx.gd-info.gov.cn" target="_blank">陆河县</a> 
+            </ul>
+            <ul>
+                <a href="http://dg.gd-info.gov.cn" target="_blank" class="maincity">东莞市</a> 
+                |
+                
+            </ul>
+            <ul>
+                <a href="http://zs.gd-info.gov.cn" target="_blank" class="maincity">中山市</a> 
+                |
+                
+            </ul>
+            <ul>
+                <a href="http://jms.gd-info.gov.cn" target="_blank" class="maincity">江门市</a> 
+                |
+                <a href="http://pjq.gd-info.gov.cn" target="_blank">蓬江区</a> <a href="http://jhq.gd-info.gov.cn" target="_blank">江海区</a> <a href="http://xhq.gd-info.gov.cn" target="_blank">新会区</a> <a href="http://tss.gd-info.gov.cn" target="_blank">台山市</a> <a href="http://kps.gd-info.gov.cn" target="_blank">开平市</a> <a href="http://hss.gd-info.gov.cn" target="_blank">鹤山市</a> <a href="http://eps.gd-info.gov.cn" target="_blank">恩平市</a> 
+            </ul>
+            <ul>
+                <a href="http://yj.gd-info.gov.cn" target="_blank" class="maincity">阳江市</a> 
+                |
+                <a href="http://jcq.gd-info.gov.cn" target="_blank">江城区</a> <a href="http://ycs.gd-info.gov.cn" target="_blank">阳春市</a> <a href="http://ydx.gd-info.gov.cn" target="_blank">阳东县</a> <a href="http://yxx.gd-info.gov.cn" target="_blank">阳西县</a> 
+            </ul>
+            <ul>
+                <a href="http://zjs.gd-info.gov.cn" target="_blank" class="maincity">湛江市</a> 
+                |
+                <a href="http://ckq.gd-info.gov.cn" target="_blank">赤坎区</a> <a href="http://xsq.gd-info.gov.cn" target="_blank">霞山区</a> <a href="http://mzq.gd-info.gov.cn" target="_blank">麻章区</a> <a href="http://ptq.gd-info.gov.cn" target="_blank">坡头区</a> <a href="http://lzs.gd-info.gov.cn" target="_blank">雷州市</a> <a href="http://ljs.gd-info.gov.cn" target="_blank">廉江市</a> <a href="http://wcs.gd-info.gov.cn" target="_blank">吴川市</a> <a href="http://suixi.gd-info.gov.cn" target="_blank">遂溪县</a> <a href="http://xwx.gd-info.gov.cn" target="_blank">徐闻县</a> 
+            </ul>
+            <ul>
+                <a href="http://mm.gd-info.gov.cn" target="_blank" class="maincity">茂名市</a> 
+                |
+                <a href="http://mnq.gd-info.gov.cn" target="_blank">茂南区</a> <a href="http://xys.gd-info.gov.cn" target="_blank">信宜市</a> <a href="http://gzs.gd-info.gov.cn" target="_blank">高州市</a> <a href="http://hzs.gd-info.gov.cn" target="_blank">化州市</a> <a href="http://mmdbx.gd-info.gov.cn" target="_blank">电白区</a> 
+            </ul>
+            <ul>
+                <a href="http://zq.gd-info.gov.cn" target="_blank" class="maincity">肇庆市</a> 
+                |
+                <a href="http://dzq.gd-info.gov.cn" target="_blank">端州区</a> <a href="http://dhq.gd-info.gov.cn" target="_blank">鼎湖区</a> <a href="http://shs.gd-info.gov.cn" target="_blank">四会市</a> <a href="http://gys.gd-info.gov.cn" target="_blank">高要区</a> <a href="http://gnx.gd-info.gov.cn" target="_blank">广宁县</a> <a href="http://dqx.gd-info.gov.cn" target="_blank">德庆县</a> <a href="http://fkx.gd-info.gov.cn" target="_blank">封开县</a> <a href="http://hjx.gd-info.gov.cn" target="_blank">怀集县</a> 
+            </ul>
+            <ul>
+                <a href="http://qy.gd-info.gov.cn" target="_blank" class="maincity">清远市</a> 
+                |
+                <a href="http://qcq.gd-info.gov.cn" target="_blank">清城区</a> <a href="http://qxx.gd-info.gov.cn" target="_blank">清新区</a> <a href="http://yds.gd-info.gov.cn" target="_blank">英德市</a> <a href="http://lianzs.gd-info.gov.cn" target="_blank">连州市</a> <a href="http://fgx.gd-info.gov.cn" target="_blank">佛冈县</a> <a href="http://lsx.gd-info.gov.cn" target="_blank">连山壮族瑶族自治县</a> <a href="http://lnx.gd-info.gov.cn" target="_blank">连南瑶族自治县</a> <a href="http://ysx.gd-info.gov.cn" target="_blank">阳山县</a> 
+            </ul>
+            <ul>
+                <a href="http://cz.gd-info.gov.cn" target="_blank" class="maincity">潮州市</a> 
+                |
+                <a href="http://xqq.gd-info.gov.cn" target="_blank">湘桥区</a> <a href="http://rpx.gd-info.gov.cn" target="_blank">饶平县</a> <a href="http://cax.gd-info.gov.cn" target="_blank">潮安县</a> 
+            </ul>
+            <ul>
+                <a href="http://jys.gd-info.gov.cn" target="_blank" class="maincity">揭阳市</a> 
+                |
+                <a href="http://rcq.gd-info.gov.cn" target="_blank">榕城区</a> <a href="http://pns.gd-info.gov.cn" target="_blank">普宁市</a> <a href="http://jdx.gd-info.gov.cn" target="_blank">揭东县</a> <a href="http://jxx.gd-info.gov.cn" target="_blank">揭西县</a> <a href="http://hlx.gd-info.gov.cn" target="_blank">惠来县</a> 
+            </ul>
+            <ul>
+                <a href="http://yf.gd-info.gov.cn" target="_blank" class="maincity">云浮市</a> 
+                |
+                <a href="http://yuncq.gd-info.gov.cn" target="_blank">云城区</a> <a href="http://lds.gd-info.gov.cn" target="_blank">罗定市</a> <a href="http://xxx.gd-info.gov.cn" target="_blank">新兴县</a> <a href="http://ynx.gd-info.gov.cn" target="_blank">郁南县</a> <a href="http://yax.gd-info.gov.cn" target="_blank">云安县</a> 
+            </ul>
+            </dd></dl></div>
+       
